@@ -19,7 +19,7 @@ public class StringArrayUtils {
     public static String getSecondElement(String[] array) {
         return array[1];
     }
-
+//test
     /**
      * @param array array of String objects
      * @return last element in specified array
